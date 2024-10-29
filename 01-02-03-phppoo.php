@@ -48,6 +48,7 @@
     }
 }
 
+/** PRACTICAS 02 - PHP POO: Instanciando una clase **/
 // OBJETOS: Es decir INSTACIAMOS, para usar los ATRIBUTOS y MÉTODOS de la CLASE.
 $mipadre = new Padre();
 echo $mipadre->Saludar()."<br/>";
@@ -68,9 +69,9 @@ echo "<br/><hr/><br/>"; // para separar las clases
     // ATRIBUTOS
     public string $host="localhost";
     public string $database="PruebaDB";
-    public string $user="roor";
-    public string $password="";
-    public string $port="3307";
+    public string $user="root";
+    public string $password="123456";
+    public string $port="21";
 
     // METODOS
     public function Guardar(){
