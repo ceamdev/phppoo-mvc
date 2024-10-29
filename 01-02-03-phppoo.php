@@ -1,6 +1,6 @@
 <?php
 
-/** PRACTICAS 01 - PHP POO
+/** PRACTICAS 01, 02 y 03 - PHP POO
  * ¿Qué es POO (Programción Orientada a Objetos), enfocado en PHP.
  * 
  * Se considera un "paradigma de programación", uno de los más usados, ya que su "forma o estilo de programación";

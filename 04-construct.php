@@ -1,6 +1,6 @@
 <?php
 
-/** PRACTICAS 02 - PHP POO, método "construct".
+/** PRACTICAS 04 - PHP POO, método "construct".
  * 
  * */
 

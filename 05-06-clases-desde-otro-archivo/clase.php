@@ -1,6 +1,6 @@
 <?php
 
-/** PRACTICAS 02 - PHP POO, método "construct".
+/** PRACTICAS 05 y 06  - PHP POO, método "construct" desde un archivo usando require
  * 
  * */
 

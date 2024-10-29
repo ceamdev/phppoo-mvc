@@ -1,6 +1,6 @@
 <?php
 
-/** PRACTICAS 04 - PHP POO, método "construct" con los property promotion, nuevo a partir de  php 8.x.
+/** PRACTICAS 07 - PHP POO, método "construct" con los "property promotion", nuevo a partir de  php 8.x.
  * Es una nueva y mas corta forma de escribir los constructs, para simplificar su uso.
  * */
 

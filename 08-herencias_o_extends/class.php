@@ -27,7 +27,10 @@
 }
 
 class Hijo extends Padre{
+    // ATRBIUTOS 
 
+
+    // METODOS 
 }
 
 // OBJETOS: usando método public function __construct
