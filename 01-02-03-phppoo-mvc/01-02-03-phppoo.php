@@ -61,7 +61,7 @@ echo "<br/><hr/><br/>"; // para separar las clases
  /** 
  * Otro ejemplo muy usado, es crear una Clase.
  * BaseDeDatos. esta contendria:
- * ATRIBUTOS, como: ost, nombre, usuario, contraseña, puerto, entre otros.
+ * ATRIBUTOS, como: host, nombre, usuario, contraseña, puerto, entre otros.
  * METODOS, como: Guardar, Seleccionar, Actualizar, Eliminar, entre otros. 
  */
 
@@ -71,7 +71,7 @@ echo "<br/><hr/><br/>"; // para separar las clases
     public string $database="PruebaDB";
     public string $user="root";
     public string $password="123456";
-    public string $port="21";
+    public string $port="3307";
 
     // METODOS
     public function Guardar(){
