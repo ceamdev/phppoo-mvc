@@ -8,8 +8,6 @@ echo "Desde Clase Padre:<br>";
 echo $mipadre->Genero("Mujer")."<br>";
 echo $mipadre->Genero("Hombre")."<br>";
 
-
-
 $hijo = new Hijo("Carlos", "Astudillo", "34",5);
 
 // echo $hijo->Hablar()."<br>";
